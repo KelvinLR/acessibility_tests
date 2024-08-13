@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# acessibility_tests
 =======
 # accessibility_tests
 
@@ -17,4 +15,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
->>>>>>> bed4820b830ce467c3c43b71e50877cf5734d5b9
